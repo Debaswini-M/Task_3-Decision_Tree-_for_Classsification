@@ -51,7 +51,7 @@ This project demonstrates how to build, visualize, and prune a Decision Tree Cla
 
 > Accuracy vs. `ccp_alpha` curve to guide pruning decision:
 
-![Accuracy vs Ccp_alpha]
+
 <img width="536" height="470" alt="image" src="https://github.com/user-attachments/assets/e0f355ee-ad52-48d3-9372-96cc729f6fbb" />
 
 
