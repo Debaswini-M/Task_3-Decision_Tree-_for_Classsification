@@ -74,14 +74,5 @@ This project demonstrates how to build, visualize, and prune a Decision Tree Cla
 
 ---
 
-##  How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/iris-decision-tree.git
-   cd iris-decision-tree
-
----
-
 ## Author
 Debaswini
